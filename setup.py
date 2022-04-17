@@ -35,5 +35,4 @@ setup(
     ],
     packages=["cmp_text_files"],
     include_package_data=True,
-    install_requires=["difflib"]
 )
