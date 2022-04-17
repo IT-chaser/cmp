@@ -1,5 +1,5 @@
 Comparison
 .. currentmodule:: cmp_text_files.comparison
 
-.. autoclass:: Comparison
+.. autoclass:: cmp_text_files.Comparison
     :members:
