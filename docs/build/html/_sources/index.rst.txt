@@ -8,15 +8,6 @@ Welcome to Comparison of text files's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Python API:
+   :caption: Api;
 
-   cmp_text_files/docs/source/api/comparison.rst
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   source/api/comparison
