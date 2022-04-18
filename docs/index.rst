@@ -6,9 +6,6 @@
 Welcome to Comparison of text files's documentation!
 ====================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. toctree::
    :maxdepth: 2
