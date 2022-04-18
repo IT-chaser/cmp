@@ -14,6 +14,6 @@ formats: all
 
 # ReadTheDocs.io need to install the dependencies to be able
 # to build the documentation automatically.
-python:
+"""python:
   install:
-    - requirements: requirements.txt
+    - requirements: requirements.txt"""

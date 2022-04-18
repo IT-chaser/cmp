@@ -8,6 +8,6 @@ Welcome to Comparison of text files's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Api;
+   :caption: Python API:
 
-   source/api/comparison
+   api/comparison
